@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William Browning</h1>
+<h1 align="center">Hi, I'm William Browning 👋</h1>
 <h3 align="center">I am scheduled to graduate the School of Code bootcamp 14 (BC14). School of Code's curriculum and lab intensives allowed me to upskill with a comprehensive introduction to  knowledge of full stack. While my skills are far from expert level, I believe the emphasis placed on computational thinking and collaboration by the SoC faculty and content has sufficiently prepared me to continue my study of both frontend and backend software programs in a professional environment that encourages and carries out Agile focused collaborative operational policy.</h3>
 
 - 🔭 I’m currently working on [Wise Wallet Kitchen](https://wisewalletkitchen.netlify.app/)
