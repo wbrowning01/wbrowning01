@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm William Browning</h1>
-<h3 align="center">I am scheduled to graduate the School of Code bootcamp 14 (BC14). School of Code's curriculum and lab intensives allowed me to up skill with a comprehensive introduction to  knowledge of full stack. While my skills are far from expert level, I believe the emphasis placed on computational thinking and collaboration by the SoC faculty and content has sufficiently prepared me to continue my study of both frontend and backend software programs in a professional environment that encourages and carries out Agile focused collaborative operational policy.</h3>
+<h3 align="center">I am scheduled to graduate the School of Code bootcamp 14 (BC14). School of Code's curriculum and lab intensives allowed me to upskill with a comprehensive introduction to  knowledge of full stack. While my skills are far from expert level, I believe the emphasis placed on computational thinking and collaboration by the SoC faculty and content has sufficiently prepared me to continue my study of both frontend and backend software programs in a professional environment that encourages and carries out Agile focused collaborative operational policy.</h3>
 
 - 🔭 I’m currently working on [Wise Wallet Kitchen](https://wisewalletkitchen.netlify.app/)
 
 - 🌱 I’m currently learning **School of Code BC14 impending graduate July, 2023**
 
-- 👯 I’m looking to collaborate on **Anything that has to do with React, JS**
+- 👯 I’m looking to collaborate on **Anything that has to do with HTML, React, JS, CSS on FE, Postgress, SQL, Supabase on BE**
 
 - 🤝 I’m looking for help with **HTML, React, JS, CSS on FE, Postgress, SQL, Supabase on BE**
 
