@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Wise Wallet Kitchen](https://wisewalletkitchen.netlify.app/)
 
-- 🌱 I’m currently learning **School of Code BC14 impending graduate July, 2023**
+- 🌱 I’m currently learning **School of Code BC14 graduate July, 2023**
 
 - 👯 I’m looking to collaborate on **Anything that has to do with HTML, React, JS, CSS on FE, Postgress, SQL, Supabase on BE**
 
